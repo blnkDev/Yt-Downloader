@@ -41,7 +41,7 @@ Aplicativo simples e poderoso para baixar vídeos e músicas do YouTube diretame
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/blnkDev/Yt-Downloader
+   git clone https://github.com/blnkDev/Yt-Downloader.git
    cd Yt-Downloader
    ```
 
